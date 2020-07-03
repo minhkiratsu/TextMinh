@@ -1,0 +1,2 @@
+rootProject.name='Text.Minh'
+include ':app'
